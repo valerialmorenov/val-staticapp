@@ -8,8 +8,8 @@
 .LSOverride
 
 # Static code
-/docs/css/
-/docs/js/
+# /docs/css/
+# /docs/js/
 
 # Google authorization files
 application_default_credentials.json
