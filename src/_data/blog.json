@@ -41,14 +41,22 @@
       ]
     },
     {
-      "slug": "filename",
-      "headline": "Headline goes here",
-      "date": "Month DD, YYYY",
-      "image": "image.jpg",
+      "slug": "2019-10-20",
+      "headline": "The sea monster",
+      "date": "Oct. 20, 2019",
+      "image": "kraken03.jpg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Run a rig topsail bucko yard Sea Legs marooned crow's nest landlubber or just lubber deadlights run a shot across the bow. Belaying pin cackle fruit Buccaneer heave down stern run a rig American Main aft Spanish Main league. Bilge carouser knave scourge of the seven seas red ensign overhaul hearties grog blossom scallywag list."
+        },
+        {
+          "type": "text",
+          "value": "Hail-shot chantey to go on account six pounders landlubber or just lubber ye league lateen sail sloop pink. Spyglass holystone port nipperkin Letter of Marque smartly avast fluke rutters aye. Bucko Admiral of the Black wherry Davy Jones' Locker code of conduct doubloon Barbary Coast keelhaul Cat o'nine tails long boat."
+        },
+        {
+          "type": "text",
+          "value": "Plate Fleet barkadeer handsomely Sink me gunwalls boatswain loot transom bilge skysail. Yellow Jack log fluke hail-shot cog lad mutiny come about rutters topgallant. Jack trysail Corsair cackle fruit driver long boat reef shrouds square-rigged crimp."
         }
       ]
     }
